@@ -54,6 +54,8 @@ Real amplification above 100% requires routing audio through a separate virtual 
 
 The project is intentionally small and uses the MIT license. Contributions should keep the tray workflow lightweight and avoid changing the global Windows master volume when adjusting an individual application.
 
+# built with GPT-5.6 Luna
+
 ## License
 
 MIT
